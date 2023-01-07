@@ -21,7 +21,7 @@ inverse=np.linalg.inv(A)
 print(inverse)
 ```
 ## Output:
-![image](https://user-images.githubusercontent.com/121373170/211164560-31436486-87ff-4c8c-ad01-1e072d5bf0fa.png)
+![image](https://user-images.githubusercontent.com/121373170/211164674-e0f0db90-a3f7-4bbb-beac-a3281c37e084.png)
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
